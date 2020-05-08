@@ -1,3 +1,6 @@
 name
 roll no
 age
+
+skill
+object
