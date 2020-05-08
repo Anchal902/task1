@@ -4,3 +4,6 @@ age
 
 skill
 object
+ 
+tall
+short
